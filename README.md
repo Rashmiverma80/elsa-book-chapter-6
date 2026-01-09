@@ -31,7 +31,6 @@ Ensure that:
 •	Folder names are exactly Crack and NonCrack
 •	Images are in .jpg or .png format
 •	The dataset directory is placed in the same location as the Python script
-________________________________________
 4. System Requirements
 Hardware
 •	CPU: Any modern multi-core processor
